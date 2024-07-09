@@ -23,5 +23,3 @@ Check out our [commands](https://github.com/pgEdge/pgedge/tree/main?tab=readme-o
 # CLI-Regression
 
 `cli-regression` is the regression platform to test the pgEdge platform. The status of the current tests can be seen below.
-
-![Deploy pgEdge Local Cluster on Ubuntu](https://github.com/ibrarahmad/cli-regression/actions/workflows/pgedge-local-cluster-ubuntu-latest.yml/badge.svg?branch=main)
